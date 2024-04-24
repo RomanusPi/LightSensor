@@ -1,4 +1,6 @@
-Light-Sensor
+#Light-Sensor
 
-for linux Mint Ubuntu
-# LightSensor
+#for linux Mint Ubuntu
+
+# run it as a root 
+
